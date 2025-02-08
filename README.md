@@ -21,7 +21,10 @@ A static website for showcasing the **Makers** community with a modern and respo
 2. Open the `index.html` file in your browser.  
 
 ## 📸 Usage  
-- Open the website in your browser.  
+- Open the website in your browser.
+-  ```bash
+   https://static258.ccbp.tech
+   ```  
 - Explore the pages to learn about the Makers community.  
 
 ## 👥 Contributors  
