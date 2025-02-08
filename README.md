@@ -5,22 +5,22 @@ A static website for showcasing the Makers community with a modern and responsiv
 Responsive design for all devices
 Clean and modern UI
 Easy navigation
-Static content for quick loading
-🛠️ Technologies Used
-HTML5 – Structure of the website
-CSS3 – Styling and layout
-📦 Installation Instructions
-1.Clone the repository:
-git clone https://github.com/shaikTousif1308/Makers-Static-website.git
-2.Open the index.html file in your browser.
-📸 Usage
-static258.ccbp.tech
-Open the website in your browser.
-Explore the pages to learn about the cooking.
-👥 Contributors
-Your Name – Creator and Maintainer
-📧 Contact
-For any inquiries, feel free to reach out:
+Static content for quick loading<br>
+🛠️ Technologies Used<br>
+HTML5 – Structure of the website<br>
+CSS3 – Styling and layout<br>
+📦 Installation Instructions<br>
+1.Clone the repository:<br>
+git clone https://github.com/shaikTousif1308/Makers-Static-website.git<br>
+2.Open the index.html file in your browser.<br>
+📸 Usage<br>
+static258.ccbp.tech<br>
+Open the website in your browser.<br>
+Explore the pages to learn about the cooking.<br>
+👥 Contributors<br>
+Your Name – Creator and Maintainer<br>
+📧 Contact<br>
+For any inquiries, feel free to reach out:<br>
 
 Email:tousifrehaman2002@gmail.com
 
