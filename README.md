@@ -14,7 +14,7 @@ CSS3 – Styling and layout<br>
 git clone https://github.com/shaikTousif1308/Makers-Static-website.git<br>
 2.Open the index.html file in your browser.<br>
 📸 Usage<br>
-static258.ccbp.tech<br>
+https://static258.ccbp.tech<br>
 Open the website in your browser.<br>
 Explore the pages to learn about the cooking.<br>
 👥 Contributors<br>
