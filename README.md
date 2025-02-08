@@ -9,7 +9,6 @@ Static content for quick loading
 🛠️ Technologies Used
 HTML5 – Structure of the website
 CSS3 – Styling and layout
-JavaScript (optional) – For adding interactive elements
 📦 Installation Instructions
 1.Clone the repository:
 git clone https://github.com/shaikTousif1308/Makers-Static-website.git
