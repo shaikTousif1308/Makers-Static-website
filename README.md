@@ -1,5 +1,5 @@
 Makers Static Website
-A static website for showcasing the Makers community with a modern and responsive design. This project is built using simple web technologies to provide an engaging user experience.
+A static website for showcasing the Makers community with a modern and responsive design. This project is built using simple web technologies to provide an engaging user experience.<br>
 
 🚀 Features
 Responsive design for all devices
