@@ -25,7 +25,7 @@ A static website for showcasing the **Makers** community with a modern and respo
 -  ```bash
    https://static258.ccbp.tech
    ```  
-- Explore the pages to learn about the Makers community.  
+- Explore the pages to learn about the Cooking Skills.  
 
 ## 👥 Contributors  
 - **[Shaik Tousif](https://github.com/shaikTousif1308)** – Creator and Maintainer  
