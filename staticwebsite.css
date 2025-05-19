@@ -31,16 +31,12 @@
 
 }
 
-.logo-size {
-    width: 130px;
-    height: 120px;
-    padding: 30px;
-}
+
 
 .bg-interface-home {
     background-image: url("https://images.unsplash.com/photo-1608555307638-992062b31329?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-size: cover;
-    height: 100vh;
+    height: 104vh;
     padding: 15px;
 }
 
@@ -75,11 +71,30 @@
     margin-bottom: 10px;
 }
 
+.home-section-logo {
+    width: 130px;
+    height: 120px;
+    padding: 30px;
+    animation-name: spin;
+    animation-duration: 3s;
+}
+
 .logo-size-recipe-list {
     width: 130px;
     height: 120px;
     padding: 30px;
 }
+
+@keyframes spin {
+    0% {}
+
+    100% {
+        transform: rotate(360deg);
+
+    }
+}
+
+
 
 .vegetarian-recipes-list {
     font-size: 20px;
@@ -93,12 +108,16 @@
 .recipe-card-img {
     width: 350px;
     height: 260px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-radius: 100px;
     padding: 10px;
+    overflow: hidden;
 }
+
+.recipe-card:hover img {
+    scale: 0.9;
+    transition: all ease 1s;
+}
+
 
 .recipe-card {
     background-color: white;
@@ -168,6 +187,7 @@
     border-radius: 20px;
     border-color: white;
     width: 150px;
+
 }
 
 body {
