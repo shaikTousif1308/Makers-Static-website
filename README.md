@@ -15,16 +15,16 @@ A static website for showcasing the **Makers** community with a modern and respo
 
 ## 📦 Installation Instructions  
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/shaikTousif1308/Makers-Static-website.git
+   
+   git clone <a href="https://github.com/shaikTousif1308/Makers-Static-website.git">click here</a>
    ```  
 2. Open the `index.html` file in your browser.  
 
 ## 📸 Usage  
 - Open the website in your browser.
--  ```bash
-   https://static258.ccbp.tech
-   ```  
+
+   <a href="https://makers258.ccbp.tech/" target="_blank">Live Demo</a><br>
+
 - Explore the pages to learn about the Cooking Skills.  
 
 ## 👥 Contributors  
