@@ -17,7 +17,6 @@ A static website for showcasing the **Makers** community with a modern and respo
 1. Clone the repository:  
    
    git clone <a href="https://github.com/shaikTousif1308/Makers-Static-website.git">click here</a>
-   ```  
 2. Open the `index.html` file in your browser.  
 
 ## 📸 Usage  
